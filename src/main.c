@@ -1,4 +1,4 @@
-#include "dns_relay.h"
+#include "../include/dns_relay.h"
 
 int main() {
 
