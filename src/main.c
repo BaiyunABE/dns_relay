@@ -1,6 +1,7 @@
 #include "../include/dns_relay.h"
 
-int main() {
+int main()
+{
 
     init_dns_relay();
 
